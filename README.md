@@ -1,22 +1,23 @@
 
-#Customer churn in the telecomunication industry
+# Customer churn in the telecomunication industry
 
 In this project, machine learning models are made to predict possible customer churn in a telecomunication industry. Our models are powerful which can determine churn factors and we can give a company the advantage of taking action before losing customers.
 
-##Business Problem
+## Business Problem
 1.	What are the most important factors affecting the customer churn?
 2.	What are the factors which are increasing churn in the compnany?
 3.	What are the factors that decrese churn and therefore retain customers in the company?
 
-##Data
+## Data
 The data used is derived from the following file "bigml_59c28831336c6604c800002a.csv" found in this repository. The machine learning modelling results can be found in the following file Customer_Churn_Model.ipynb" found in this repository. The presentation of the results can be found in a pdf file as "CustomerChurn_presentation.pdf"
 
-##Methods
+## Methods
 OSEMN approach is used in this project. The data is , scrubbed, cleaned, explored, visualized, modelled and interpreted.
 
 Differnt machine learning models were used to examine the most precise and accurate one including Random Forest, DescisionTree and SVM Classifiers ...ect.
 
 ## Results 
+
 Our models produced were able to predict up tp 65-100% true churn.
 
 The top five factors contributing to churn in the company are :
@@ -37,7 +38,7 @@ Top factors contributing to retention of customers are :
 ![image](https://user-images.githubusercontent.com/53411455/115775525-febef180-a380-11eb-9df1-df6ee19572d5.png)
 
 
-##Recommendations
+## Recommendations
 
 1) Decrease call charge for day and special charges for evening calls.
 
@@ -49,7 +50,8 @@ Top factors contributing to retention of customers are :
 
 5) Compete with other companies on this strongly recommended feature"voice mail plan" and make better offers for the customers. This can attract customers from competeing rivals.
 
-##Future Work
+## Future Work
+
 More important data is needed to predict the churn of customers.
 
 1) Competitor Information
