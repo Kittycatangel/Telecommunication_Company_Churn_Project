@@ -1,5 +1,5 @@
 
-# Customer churn in the telecomunication industry
+# Customer Churn in  Telecomunication Industry
 
 In this project, machine learning models are made to predict possible customer churn in a telecomunication industry. Our models are powerful which can determine churn factors and we can give a company the advantage of taking action before losing customers.
 
